@@ -1,2 +1,2 @@
 # JetBrainsMono-Font
- Font Opensource JetBrainsMono untuk ngoding by JetBrains
+ Font Open Source dan Gratis JetBrainsMono buat ngoding by JetBrains
